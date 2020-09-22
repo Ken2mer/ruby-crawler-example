@@ -1,0 +1,1 @@
+cf. [Rubyによるクローラー開発技法](https://www.sbcr.jp/product/4797380354/)
